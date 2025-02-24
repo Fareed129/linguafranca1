@@ -45,6 +45,9 @@ export default function Footer() {
           <p className="text-center text-gray-400 text-sm">
             &copy; {new Date().getFullYear()} LINGUA FRANCA SCHOOL OF IT AND LANGUAGES. All rights reserved.
           </p>
+          <p className="text-center text-gray-400 text-sm">
+            &copy; {new Date().getFullYear()} design by mo fareed
+          </p>
         </div>
       </div>
     </footer>
